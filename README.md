@@ -4,6 +4,4 @@
 
 https://womenleaders.github.io/WomenInBlockchain/
 
-Hope to see you during the second Wednesday of December.
-
-Thanks!
+Hope to see you during the second Wednesday of December.  Thanks!
