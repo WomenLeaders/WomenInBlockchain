@@ -64,7 +64,7 @@ Theme: Arts+Education+Collaboration & Blockchain****
 
 Structure: Un-Panel (CryptoConsciousness Conference style)
 
-Collaborators: CryptoConsciousness Conference, Oakland Blockchain Developer, Blockchain@Berkeley, Women leaders in AI & Blockchain
+Collaborators (TBD): CryptoConsciousness Conference, Oakland Blockchain Developer, Blockchain@Berkeley, Women leaders in AI & Blockchain
 
 Our Intention:
 
