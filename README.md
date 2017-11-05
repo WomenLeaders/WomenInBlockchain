@@ -2,6 +2,6 @@
 
 Women in Blockchain Meetup of the Bay Area
 
-> Hello world
+https://womenleaders.github.io/WomenInBlockchain/
 
 Thanks!
