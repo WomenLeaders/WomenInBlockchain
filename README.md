@@ -2,7 +2,7 @@
 
 https://womenleaders.github.io/WomenInBlockchain/
 
-# Women in Blockchain (4/11 working meet)
+# Women in Blockchain (11/4 working meet)
 
 *[Feel free to edit in the collaborative section below]*
 
